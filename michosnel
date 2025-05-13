@@ -1,4 +1,3 @@
-property-calculator/
-├── index.html
-├── style.css
-└── script.js
+git add .
+git commit -m "Move files to root directory"
+git push origin main
